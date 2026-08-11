@@ -13,9 +13,20 @@ I'm **Nilesh**, a Computer Science student passionate about **software developme
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=k-nilesh04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k-nilesh04/k-nilesh04/output/breakout-contribution-graph-dark.svg" >
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k-nilesh04/k-nilesh04/output/breakout-contribution-graph.svg" >
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/k-nilesh04/k-nilesh04/output/breakout-contribution-graph.svg" >
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/k-nilesh04/k-nilesh04/output/breakout-contribution-graph-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/k-nilesh04/k-nilesh04/output/breakout-contribution-graph.svg"
+  />
+
+  <img
+    alt="Breakout contribution graph"
+    src="https://raw.githubusercontent.com/k-nilesh04/k-nilesh04/output/breakout-contribution-graph.svg"
+  />
 </picture>
 
 <!-- ## 🏆 GitHub Trophies
