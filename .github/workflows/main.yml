@@ -1,0 +1,19 @@
+name: Generate Breakout Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Breakout Contribution Graph
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: k-nilesh04
