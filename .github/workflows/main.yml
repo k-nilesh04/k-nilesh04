@@ -16,7 +16,7 @@ jobs:
         timeout-minutes: 20
         steps:
             - name: generate contribution graph SVGs
-              uses: abozanona/pacman-contribution-graph@main
+              uses: abozanona/breakout-contribution-graph@main
               with:
                   github_user_name: ${{ github.repository_owner }}
                   games: 'pacman'
